@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="milky">
+        <item>Hi Milky</item>
+        <item>Milky</item>
+        <item>Alvin</item>
+        <item>米奇</item>   
+        <item>你好</item>  
+    </string-array>
+    
+    <string-array name="menu">
+        <item>MENU</item>
+        <item>MAIN MENU</item>
+        <item>HOME</item>
+        <item>功能表</item>
+        <item>主功能表</item>
+        <item>功能选择</item>
+        <item>主画面</item>
+        <item>首页</item>
+    </string-array>
+    
+    <string-array name="grocery">
+        <item>GROCERY</item>
+        <item>SHOPPING</item>
+        <item>Store</item>
+        <item>购物</item>
+        <item>买菜</item> 
+        <item>买东西</item>    
+        <item>生鲜购物</item>    
+    </string-array>
+    
+    <string-array name="tv">
+        <item>TV</item>
+        <item>Watch TV</item>
+        <item>电视</item>
+        <item>看电视</item>
+        <item>影视娱乐</item>
+        <item>娱乐</item>  
+    </string-array>
+    
+    <string-array name="homedine">
+        <item>Home Dine</item>
+        <item>Restaurant</item>
+        <item>Take Out</item>
+        <item>Home Delivery</item>
+        <item>I\'m hungry</item>
+        <item>What can I eat</item>
+        <item>Fast Food</item>
+        <item>I\'m Starving</item>
+        <item>Starving </item>
+        <item>HOMEDINE</item>
+        <item>HOME DINE</item>
+        <item>DINE</item>
+        <item>外卖</item>
+        <item>叫外卖</item>
+        <item>肚子饿</item>
+        <item>点餐</item>
+        <item>外带</item> 
+    </string-array>
+    
+    <string-array name="coupon">
+        <item>Coupon</item>
+        <item>What\'s on sell</item>
+        <item>Discount</item>
+        <item>好康</item>
+        <item>折价券</item>
+        <item>折价</item>
+        <item>打折</item>
+        <item>特价</item>
+        <item>特价优惠</item>
+        <item>优惠</item>  
+    </string-array>
+    
+    <string-array name="radio">
+        <item>Radio</item>
+        <item>Play some Music</item>
+        <item>音乐</item>
+        <item>听音乐</item>
+        <item>听收音机</item>  
+        <item>收音机</item>
+        <item>广播</item> 
+        <item>听广播</item> 
+        <item>线上广播</item>
+    </string-array>
+    
+    <string-array name="setting">
+        <item>Setting</item>
+        <item>About</item>
+        <item>设定</item>
+        <item>系统设定</item>
+    </string-array>
+    
+    <string-array name="factory">
+        <item>Factory</item>
+        <item>Fix</item>
+    </string-array>
+    
+    <string-array name="exit">
+        <item>Shout down</item>
+        <item>Turn off</item>
+        <item>Bye Bye</item>
+        <item>Bye</item>
+        <item>Power off</item>
+        <item>Go Sleep</item>
+        <item>Good Night</item>
+        <item>EXIT</item>
+        <item>QUIT</item>
+        <item>SYSTEM OVER</item>
+        <item>结束系统</item>
+        <item>结束</item>
+        <item>离开系统</item>
+        <item>离开程式</item>
+    </string-array>
+    
+    <string-array name="left">
+        <item>靠左</item>
+        <item>左边</item>
+        <item>向左</item>
+        <item>LEFT</item>
+        <item>TURN LEFT</item>
+        <item>GO LEFT</item>
+        <item>STEP LEFT</item>
+        <item>MOVE LEFT</item>
+    </string-array>
+    
+    <string-array name="right">
+        <item>右边</item>
+        <item>向右</item>
+        <item>RIGHT</item>
+        <item>TURN RIGHT</item>
+        <item>GO RIGHT</item>
+        <item>STEP RIGHT</item>
+        <item>MOVE RIGHT</item>
+    </string-array>
+    
+    <string-array name="up">
+        <item>上。</item>
+        <item>靠上。</item>
+        <item>往上。</item>
+        <item>向上。</item>
+        <item>UP</item>
+        <item>TURN UP</item>
+        <item>GO UP</item>
+        <item>STEP UP</item>
+        <item>MOVE UP</item>
+    </string-array>
+    
+    <string-array name="down">
+        <item>下</item>
+        <item>靠下</item>
+        <item>往下</item>
+        <item>向下</item>
+        <item>DOWN</item>
+        <item>TURN DOWN</item>
+        <item>GO DOWN</item>
+        <item>STEP DOWN</item>
+        <item>MOVE DOWN</item>
+    </string-array>
+    
+    <string-array name="back">
+        <item>回</item>
+        <item>往回</item>
+        <item>向回</item>
+        <item>往后</item>
+        <item>退</item>
+        <item>返回</item>
+        <item>退后</item>
+        <item>上一步</item>
+        <item>退一步</item>
+        <item>BACK</item>
+        <item>TURN BACK</item>
+        <item>GO BACK</item>
+        <item>STEP BACK</item>
+        <item>MOVE BACK</item>
+        <item>Cancel</item>
+        <item>上一页。</item> 
+    </string-array>
+    
+    <string-array name="ok">
+        <item>好</item>
+        <item>对</item>
+        <item>可以</item>
+        <item>同意</item>
+        <item>OK</item>
+        <item>YES</item>
+        <item>YEP</item>
+    </string-array>
+    
+    <string-array name="about">
+        <item>Who are you</item>
+        <item>What\'s your name</item>
+        <item>Whats your name</item>
+        <item>What your name</item>
+        <item>你是谁</item>
+        <item>你叫什么</item>
+        <item>你叫什么名字</item>
+        <item>你哪位</item>
+    </string-array>
+    
+    <string-array name="setNickName">
+        <item>My Name is</item>
+        <item>Call me</item>
+        <item>我叫</item>
+        <item>我的名字叫</item>
+        <item>我的名字叫做</item>
+        <item>叫我</item>
+    </string-array>
+    
+    <string-array name="whoami">
+        <item>Who Am I</item>
+        <item>What\'s my name</item>
+        <item>Whats my name</item>
+        <item>What my name</item>
+        <item>我是谁</item>
+        <item>我叫什么</item>
+        <item>我叫什么名字</item>
+    </string-array>
+    
+    <string-array name="HelpMainMenu">
+        <item>What can I say</item>
+        <item>Help</item>
+        <item>Command List</item>
+		<item>我能怎么说</item>
+		<item>我能说什么</item>
+        <item>关键字</item>
+        <item>小帮手</item>
+		<item>怎么办</item>
+		<item>帮助</item>
+		<item>帮忙</item>
+		<item>命令</item>
+		<item>有哪些命令</item>
+    </string-array>
+    
+    <string-array name="WhatTimeIsIt">
+        <item>What Time is it</item>
+		<item>几点</item>
+        <item>现在几点</item>
+        <item>时间</item>
+		<item>现在时间</item>
+    </string-array>
+    
+    <string-array name="WhatDayIsToday">
+        <item>What day is today</item>
+        <item>今天几月几号</item>
+		<item>今天星期几</item>
+ 		<item>日期</item>
+    </string-array>
+    
+    <string-array name="HowIsTheWeather">
+        <item>How is the Weather</item>
+		<item>天气</item>
+		<item>查天气</item>
+		<item>今天天气</item>
+		<item>今天天气如何</item>
+    </string-array>
+    
+    <string-array name="DoINeedAnUmbrella">
+        <item>Do I need an umbrella</item>
+        <item>要带伞吗</item>
+		<item>今天要带伞吗</item>
+		<item>需要带伞吗</item>
+		<item>今天需要带伞吗</item>
+    </string-array>
+    
+    <string-array name= "UserGuide">
+        <item>User guide</item>
+        <item>show me the function</item>
+        <item>introduce yourself</item>
+		<item>导览</item>
+    </string-array>
+
+</resources>
